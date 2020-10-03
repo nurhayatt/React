@@ -1,0 +1,1131 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "productName": "Kırmızı Et Menü",
+      "Price": "20,95",
+      "subMenus": [ "kirmizi-et-ana-yemekler", "indirimli-menu-yan-lezzetler-1", "indirimli-menu-yan-lezzetler-2", "indirimli-menu-tatli", "indirimli-menu-icecek" ],
+      "image": "./images/kirmizi-et-menu.jpg"
+
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "productName": "Beyaz Et Menü",
+      "Price": "18,95",
+      "subMenus": [ "beyaz-et-ana-yemekler", "indirimli-menu-yan-lezzetler-1", "indirimli-menu-yan-lezzetler-2", "indirimli-menu-tatli", "indirimli-menu-icecek" ],
+      "image": "./images/beyaz-et-menu.jpg"
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "productName": "Sebzeli / Etli Menü",
+      "Price": "16,95",
+      "subMenus": [ "sebzeli-etli-indirimli-menu-ana-yemekler", "indirimli-menu-yan-lezzetler-1", "indirimli-menu-yan-lezzetler-2", "indirimli-menu-tatli", "indirimli-menu-icecek" ],
+      "image": "./images/sebzeli--etli-menu.jpg"
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "productName": "Diyet Menü",
+      "Price": "16,95",
+      "subMenus": [ "diyet-indirimli-menu-ana-yemekler", "indirimli-menu-yan-lezzetler-1", "indirimli-menu-yan-lezzetler-2", "indirimli-menu-icecek" ],
+      "image": "./images/diyet-menu.jpg"
+    },
+    {
+      "id": 5,
+      "categoryId": 1,
+      "productName": "4 Kişilik Menü - Etli Yaprak Sarma",
+      "Price": "44",
+      "image": "./images/4-kisilik-menu-etli-yaprak-sarma.jpg"
+    },
+    {
+      "id": 6,
+      "categoryId": 1,
+      "productName": "Coca-Cola Menü",
+      "Price": "17,45",
+      "subMenus": [ "cocacola-indirimli-menu-ana-yemekler", "indirimli-menu-icecek", "indirimli-menu-yan-lezzetler-1", "indirimli-menu-yan-lezzetler-2", "indirimli-menu-tatli" ],
+      "image": "./images/coca-cola-light-cam-sise.jpg"
+    },
+    {
+      "id": 7,
+      "categoryId": 1,
+      "productName": "4 Kişilik Menü - Köri Soslu Tavuk",
+      "Price": "55",
+      "image": "./images/4-kisilik-menu-kori-soslu-tavuk.jpg"
+    },
+    {
+      "id": 8,
+      "categoryId": 1,
+      "productName": " 4 Kişilik Menü - İsveç Köfte",
+      "Price": 66,
+      "image": "./images/4-kisilik-menu-isvec-kofte.jpg"
+    },
+    {
+      "id": 9,
+      "categoryId": 1,
+      "productName": "Vejetaryen Menü",
+      "Price": "16,95",
+      "subMenus": [ "vejeteryan-indirimli-menu-ana-yemekler", "indirimli-menu-yan-lezzetler-1", "indirimli-menu-yan-lezzetler-2" ],
+      "image": "./images/vejeteryan-menu.jpg"
+    },
+    {
+      "id": 10,
+      "categoryId": 1,
+      "productName": "Hünkarbeğendi",
+      "Price": "17,45",
+      "image": "./images/hunkar-begendi.jpg"
+
+    },
+    {
+      "id": 11,
+      "categoryId": 1,
+      "productName": "Domates Soslu İsveç Köfte",
+      "Price": "17,45",
+      "image": "./images/isvec-kofte.jpg"
+
+    },
+    {
+      "id": 12,
+      "categoryId": 1,
+      "productName": "Patates Püresi Yatağında Köfte",
+      "Price": "14,75",
+      "image": "./images/patates-puresi-yataginda-kofte.jpg"
+
+    },
+    {
+      "id": 13,
+      "categoryId": 1,
+      "productName": "Beğendi Yatağında Köfte",
+      "Price": "14,75",
+      "image": "./images/begendi-yataginda-kofte.jpg"
+
+    },
+    {
+      "id": 14,
+      "categoryId": 1,
+      "productName": "Izgara Köfte ve Karışık Sebze",
+      "Price": "14,75",
+      "image": "./images/izgara-kofte-ve-karisik-sebze.jpg"
+
+
+    },
+    {
+      "id": 15,
+      "categoryId": 1,
+      "productName": "Orman Kebabı",
+      "Price": "14,75",
+      "image": "./images/orman-kebabi.jpg"
+
+    },
+    {
+      "id": 16,
+      "categoryId": 1,
+      "productName": " Dana Kavurma ve Şehriyeli Pilav",
+      "Price": "21,95",
+      "image": "./images/dana-kavurma-ve-sehriyeli-pilav.jpg"
+    },
+    {
+      "id": 17,
+      "categoryId": 1,
+      "productName": "Etli Asma Yaprağı Sarma ve Yoğurt",
+      "Price": "17,45",
+      "image": "./images/etli-yaprak-sarma-ve-yogurt.jpg"
+    },
+    {
+      "id": 18,
+      "categoryId": 1,
+      "productName": "Zerdeçal Soslu Karışık Sebze",
+      "Price": "17,45",
+      "image": "./images/zerdecal-soslu-karisik-sebze.jpg"
+
+    },
+    {
+      "id": 19,
+      "categoryId": 1,
+      "productName": "Acı Soslu Patlıcanlı Fettuccine",
+      "Price": "14,75",
+      "image": "./images/aci-soslu-patlicanli-fettucine.jpg"
+
+    },
+    {
+      "id": 20,
+      "categoryId": 1,
+      "productName": " Fırınlanmış Beyaz Nohut",
+      "Price": "14,75",
+      "image": "./images/firinlanmis-beyaz-nohut.jpg"
+
+    },
+    {
+      "id": 21,
+      "categoryId": 1,
+      "productName": " Kıymalı Ispanak Oturtma ve Yoğurt",
+      "Price": "14,75",
+      "image": "./images/kiymali-ispanak-oturtma-ve-yogurt.jpg"
+
+    },
+    {
+      "id": 22,
+      "categoryId": 1,
+      "productName": "Kabak Kalye",
+      "Price": "14,75",
+      "image": "./images/kabak-kalye.jpg"
+    },
+    {
+      "id": 23,
+      "categoryId": 1,
+      "productName": "Veggie Lazanya",
+      "Price": "14,75",
+      "image": "./images/veggie-lazanya.jpg"
+    },
+    {
+      "id": 24,
+      "categoryId": 1,
+      "productName": "Türlü",
+      "Price": "14,75",
+      "image": "./images/turlu.jpg"
+    },
+    {
+      "id": 25,
+      "categoryId": 1,
+      "productName": "Antep Usulü Karışık Dolma ve Yoğurt",
+      "Price": "14,75",
+      "image": "./images/antep-usulu-karisik-dolma-ve-yogurt.jpg"
+    },
+    {
+      "id": 26,
+      "categoryId": 1,
+      "productName": "Kıymalı Yeşil Mercimek",
+      "Price": "14,75",
+      "image": "./images/kiymali-yesil-mercimek.jpg"
+    },
+    {
+      "id": 27,
+      "categoryId": 1,
+      "productName": "Moğol Usulü Sebzeli Tavuklu Erişte",
+      "Price": "17,45",
+      "image": "./images/soya-soslu-tavuklu-sebzeli-noodle.jpg"
+    },
+    {
+      "id": 28,
+      "categoryId": 1,
+      "productName": " Köri Soslu Mantarlı Tavuk",
+      "Price": "17,45",
+      "image": "./images/kori-soslu-mantarli-tavuk.jpg"
+    },
+    {
+      "id": 29,
+      "categoryId": 1,
+      "productName": "  Piliç Piccata ve Fettuccine",
+      "Price": "14,75",
+      "image": "./images/pilic-piccata-ve-fettucine.jpg"
+    },
+    {
+      "id": 30,
+      "categoryId": 1,
+      "productName": " Fırın Tavuk ve Şehriyeli Pilav",
+      "Price": "14,75",
+      "image": "./images/pilav-ustu-firin-tavuk.jpg"
+    },
+    {
+      "id": 31,
+      "categoryId": 1,
+      "productName": " Izgara Tavuk ve Karışık Sebze",
+      "Price": "14,75",
+      "image": "./images/izgara-tavuk-ve-karisik-sebze.jpg"
+    },
+    {
+      "id": 32,
+      "categoryId": 1,
+      "productName": " Somon Izgara",
+      "Price": "14,75",
+      "image": "./images/somon-izgara.jpg"
+    },
+    {
+      "id": 33,
+      "categoryId": 1,
+      "productName": "Fırınlanmış Tereyağlı Mercimek Çorbası",
+      "Price": "7",
+      "image": "./images/firinlanmis-tereyagli-mercimek-corbasi.jpg"
+    },
+    {
+      "id": 34,
+      "categoryId": 1,
+      "productName": " Naneli Yoğurt Çorbası",
+      "Price": "8",
+      "image": "./images/naneli-yogurt-corbasi.jpg"
+    },
+    {
+      "id": 35,
+      "categoryId": 1,
+      "productName": "Sütlü Brokoli Çorbası",
+      "Price": "8",
+      "image": "./images/sutlu-brokoli-corbasi.jpg"
+    },
+    {
+      "id": 36,
+      "categoryId": 1,
+      "productName": "Zeytinyağı Soslu Brokoli",
+      "Price": "17,45",
+      "image": "./images/zeytinyagli-brokoli.jpg"
+    },
+    {
+      "id": 37,
+      "categoryId": 1,
+      "productName": "Zeytinyağı Soslu Brüksel Lahanası",
+      "Price": "17,45",
+      "image": "./images/zeytinyagli-bruksel-lahanasi.jpg"
+    },
+    {
+      "id": 38,
+      "categoryId": 1,
+      "productName": "Zerdeçal Soslu Karışık Sebze (Mini)",
+      "Price": "14,75",
+      "image": "./images/mini-karisik-sebze.jpg"
+    },
+    {
+      "id": 39,
+      "categoryId": 1,
+      "productName": "Balzamik Soslu Buğday Salata (Mini)",
+      "Price": "14,75",
+      "image": "./images/balzamik-soslu-bugday-salata-mini.jpg"
+    },
+    {
+      "id": 40,
+      "categoryId": 1,
+      "productName": "Akdeniz Soslu Mercimek Salata (Mini)",
+      "Price": "14,75",
+      "image": "./images/akdeniz-soslu-mercimek-salata-mini.jpg"
+
+    },
+    {
+      "id": 41,
+      "categoryId": 1,
+      "productName": "Soslu Izgara Sebze",
+      "Price": "14,75",
+      "image": "./images/soslu-izgara-sebze.jpg"
+    },
+    {
+      "id": 42,
+      "categoryId": 1,
+      "productName": "Venedik Soslu Kinoalı Yeşil Salata",
+      "Price": "11,45",
+      "image": "./images/venedik-soslu-kinoa-salatasi.jpg"
+    },
+    {
+      "id": 43,
+      "categoryId": 1,
+      "productName": "Thai Salata",
+      "Price": "11,45",
+      "image": "./images/thai-salata.jpg"
+
+    },
+    {
+      "id": 44,
+      "categoryId": 1,
+      "productName": "Pancar Salata",
+      "Price": "11,45",
+      "image": "./images/pancar-salata.jpg"
+    },
+    {
+      "id": 45,
+      "categoryId": 1,
+      "productName": "Nohutlu Pirinç Pilavı",
+      "Price": "4,95",
+      "image": "./images/nohutlu-sehriyeli-pirinc-pilavi.jpg"
+    },
+    {
+      "id": 46,
+      "categoryId": 1,
+      "productName": " Domatesli Bulgur Pilavı",
+      "Price": "4,95",
+      "image": "./images/domatesli-bulgur-pilavi.jpg"
+    },
+    {
+      "id": 47,
+      "categoryId": 1,
+      "productName": " Kaşarlı Patates Püresi",
+      "Price": "4,95",
+      "image": "./images/kasarli-patates-puresi.jpg"
+    },
+    {
+      "id": 48,
+      "categoryId": 1,
+      "productName": " Mini İçli Köfte",
+      "Price": "6,45",
+      "image": "./images/mini-icli-kofte.jpg"
+    },
+    {
+      "id": 49,
+      "categoryId": 1,
+      "productName": "Kadınbudu Köfte",
+      "Price": "6,45",
+      "image": "./images/kadinbudu-kofte.jpg"
+    },
+    {
+      "id": 50,
+      "categoryId": 1,
+      "productName": "İnce Kıyım Şakşuka",
+      "Price": "6,45",
+      "image": "./images/ince-kiyim-saksuka.jpg"
+    },
+    {
+      "id": 51,
+      "categoryId": 1,
+      "productName": " Barbunya Pilaki",
+      "Price": "4,95",
+      "image": "./images/barbunya-pilaki."
+    },
+    {
+      "id": 52,
+      "categoryId": 1,
+      "productName": " Tereyağlı Cevizli Erişte",
+      "Price": "4,95",
+      "image": "./images/tereyagli-cevizli-eriste.jpg"
+    },
+    {
+      "id": 53,
+      "categoryId": 1,
+      "productName": " Baharatlı Fırın Patates",
+      "Price": "4,95",
+      "image": "./images/baharatli-firin-patates.jpg"
+    },
+    {
+      "id": 54,
+      "categoryId": 1,
+      "productName": "Çekoslovak Güneşi",
+      "Price": "7,45",
+      "image": "./images/cekoslavak-gunesi.jpg"
+    },
+    {
+      "id": 55,
+      "categoryId": 1,
+      "productName": " Siyah İnci",
+      "Price": "7,45",
+      "image": "./images/siyah-inci-dilim.jpg"
+
+    },
+    {
+      "id": 56,
+      "categoryId": 1,
+      "productName": " Çikolatalı Sufle",
+      "Price": "7,75",
+      "image": "./images/cikolatali-sufle.jpg"
+    },
+    {
+      "id": 57,
+      "categoryId": 1,
+      "productName": "Kuş Sütü",
+      "Price": "8,75",
+      "image": "./images/kus-sutu.jpg"
+    },
+    {
+      "id": 58,
+      "categoryId": 1,
+      "productName": "Frambuazlı Cheesecake",
+      "Price": "6,75",
+      "image": "./images/frambuazli-cheesecake.jpg"
+    },
+    {
+      "id": 59,
+      "categoryId": 1,
+      "productName": " Çikolatalı Brownie",
+      "Price": "8,75",
+      "image": "./images/cikolatali-brownie.jpg"
+    },
+    {
+      "id": 60,
+      "categoryId": 1,
+      "productName": "İrmik Helvası",
+      "Price": "7,75",
+      "image": "./images/irmik-helvasi.jpg"
+    },
+    {
+      "id": 61,
+      "categoryId": 1,
+      "productName": "Cappy Portakal Suyu",
+      "Price": "3,85",
+      "image": "./images/cappy-portakal-suyu.jpg"
+
+    },
+    {
+      "id": 62,
+      "categoryId": 1,
+      "productName": "Cappy Şeftali",
+      "Price": "3,85",
+      "image": "./images/cappy-seftali.jpg"
+    },
+    {
+      "id": 63,
+      "categoryId": 1,
+      "productName": "Cappy Vişne Suyu",
+      "Price": "3,85",
+      "image": "./images/cappy-visne-suyu.jpg"
+    },
+    {
+      "id": 64,
+      "categoryId": 1,
+      "productName": " Sütaş Ayran",
+      "Price": "2,45",
+      "image": "./images/sutas-ayran-300ml.jpg"
+    },
+    {
+      "id": 65,
+      "categoryId": 1,
+      "productName": "Illy Latte Macchiato",
+      "Price": "5,45",
+      "image": "./images/illy-latte-macchiato-pet-250ml.jpg"
+    },
+    {
+      "id": 66,
+      "categoryId": 1,
+      "productName": "Illy Caffe Macchiato",
+      "Price": "5,45",
+      "image": "./images/illy-caffe-macchiato-pet-250ml.jpg"
+    },
+    {
+      "id": 67,
+      "categoryId": 1,
+      "productName": " Fuse Tea Limon Kutu",
+      "Price": "3,85",
+      "image": "./images/fuse-tea-limon-kutu.jpg"
+    },
+    {
+      "id": 68,
+      "categoryId": 1,
+      "productName": "Fuse Tea Şeftali Kutu",
+      "Price": "3,85",
+      "image": "./images/fuse-tea-seftali.jpg"
+    },
+    {
+      "id": 69,
+      "categoryId": 1,
+      "productName": "Fuse Tea Şeftali Kutu",
+      "Price": "3,85",
+      "image": "./images/fuse-tea-seftali.jpg"
+    },
+    {
+      "id": 70,
+      "categoryId": 1,
+      "productName": "Soya Sütü Sade",
+      "Price": "5,85",
+      "image": "./images/alpro-soya-sutu-sade.jpg"
+    },
+    {
+      "id": 71,
+      "categoryId": 1,
+      "productName": "Soya Sütü Çilekli",
+      "Price": "5,85",
+      "image": "./images/alpro-soya-sutu-cilekli.jpg"
+    },
+    {
+      "id": 72,
+      "categoryId": 1,
+      "productName": "Soya Sütü Çikolatalı",
+      "Price": "5,85",
+      "image": "./images/alpro-soya-sutu-cikolatali.jpg"
+    },
+    {
+      "id": 73,
+      "categoryId": 1,
+      "productName": "Elmalı&Tarçınlı Demlendirilmiş Su",
+      "Price": "5,85",
+      "image": "./images/found-elmaliandtarcinli-demlendirilmis-su.jpg"
+    },
+    {
+      "id": 74,
+      "categoryId": 1,
+      "productName": "Naneli&Salatalıklı Demlendirilmiş Su",
+      "Price": "5,85",
+      "image": "./images/found-naneliandsalatalikli-demlendirilmis-su.jpg"
+    },
+    {
+      "id": 75,
+      "categoryId": 1,
+      "productName": " Limonlu Demlendirilmiş Su",
+      "Price": "5,85",
+      "image": "./images/found-limonlu-demlendirilmis-su-330ml.jpg"
+    },
+    {
+      "id": 76,
+      "categoryId": 1,
+      "productName": " Mürver Çiçekli Demlendirilmiş Su",
+      "Price": "5,85",
+      "image": "./images/found-murver-cicekli-demlendirilmis-su-330ml.jpg"
+    },
+    {
+      "id": 77,
+      "categoryId": 1,
+      "productName": "Enjoy Smoothie Çilek&Muz ",
+      "Price": "7,45",
+      "image": "./images/enjoy-smoothie-cilekandmuz-250ml.jpg"
+    },
+    {
+      "id": 78,
+      "categoryId": 1,
+      "productName": "Enjoy Smoothie Mango&Passion Fruit",
+      "Price": "7,45",
+      "image": "./images/enjoy-smoothie-mangoandpassion-fruit.jpg"
+    },
+    {
+      "id": 79,
+      "categoryId": 1,
+      "productName": "Enjoy Sıkma Portakal Suyu",
+      "Price": "5,85",
+      "image": "./images/enjoy-sikma-portakal-suyu.jpg"
+    },
+    {
+      "id": 80,
+      "categoryId": 1,
+      "productName": "Fuse Tea Limon Cam Şişe",
+      "Price": "3,85",
+      "image": "./images/fuse-tea-limon-cam-sise-250ml.jpg"
+    },
+    {
+      "id": 81,
+      "categoryId": 1,
+      "productName": "Fuse Tea Şeftali Cam Şişe",
+      "Price": "3,85",
+      "image": "./images/fuse-tea-seftali-cam-sise-250ml.jpg"
+    },
+    {
+      "id": 82,
+      "categoryId": 1,
+      "productName": "Cappy Şeftali Suyu Cam Şişe",
+      "Price": "3,85",
+      "image": "./images/cappy-seftali-suyu-cam-sise-250ml.jpg"
+
+    },
+    {
+      "id": 83,
+      "categoryId": 1,
+      "productName": "Cappy Portakal Suyu Cam Şişe",
+      "Price": "3,85",
+      "image": "./images/cappy-portakal-suyu-cam-sise-250ml.jpg"
+    },
+    {
+      "id": 84,
+      "categoryId": 1,
+      "productName": "Cappy Vişne Suyu Cam Şişe",
+      "Price": "3,85",
+      "image": "./images/cappy-visne-suyu-cam-sise-250ml.jpg"
+    },
+    {
+      "id": 85,
+      "categoryId": 1,
+      "productName": "Coca-Cola Kutu",
+      "Price": "17,45",
+      "image": "./images/coca-cola-kutu-330ml.jpg"
+    },
+    {
+      "id": 86,
+      "categoryId": 1,
+      "productName": "Coca-Cola Light Kutu",
+      "Price": "17,45",
+      "image": "./images/coca-cola-light-kutu.jpg"
+    },
+    {
+      "id": 87,
+      "categoryId": 1,
+      "productName": "Coca-Cola Zero Kutu",
+      "Price": "14,75",
+      "image": "./images/coca-cola-zero-kutu.jpg"
+    },
+    {
+      "id": 88,
+      "categoryId": 1,
+      "productName": "Fanta Portakal Kutu",
+      "Price": "14,75",
+      "image": "./images/fanta-portakal-kutu.jpg"
+
+    },
+    {
+      "id": 89,
+      "categoryId": 1,
+      "productName": "Sprite Kutu",
+      "Price": "14,75",
+      "image": "./images/sprite-kutu.jpg"
+
+    },
+    {
+      "id": 90,
+      "categoryId": 1,
+      "productName": " Guarana Antarctica Gazlı İçecek",
+      "Price": "14,75",
+      "image": "./images/guarana-antarctica-gazli-icecek.jpg"
+    },
+    {
+      "id": 91,
+      "categoryId": 1,
+      "productName": "Coca-Cola Light Cam Şişe",
+      "Price": "14,75",
+      "image": "./images/coca-cola-light-cam-sise.jpg"
+    },
+    {
+      "id": 92,
+      "categoryId": 1,
+      "productName": "Coca-Cola Cam Şişe",
+      "Price": "14,75",
+
+      "image": "./images/coca-cola-cam-sise.jpg"
+    },
+    {
+      "id": 93,
+      "categoryId": 1,
+      "productName": " Coca-Cola Zero Cam Şiş",
+      "Price": "14,75",
+      "image": "./images/coca-cola-zero-cam-sise.jpg"
+
+    },
+    {
+      "id": 94,
+      "categoryId": 2,
+      "productName": "Hünkarbeğendi",
+      "Price": "2,7",
+      "image": "./images/hunkar-begendi.jpg"
+
+    },
+
+
+    {
+      "id": 95,
+      "categoryId": 2,
+      "productName": "Dana Kavurma ve Şehriyeli Pilav",
+      "Price": "7,2",
+      "image": "./images/dana-kavurma-ve-sehriyeli-pilav.jpg"
+    },
+    {
+      "id": 96,
+      "categoryId": 3,
+      "productName": "Moğol Usulü Sebzeli Tavuklu Erişte",
+      "Price": "2,7",
+      "image": "./images/soya-soslu-tavuklu-sebzeli-noodle.jpg"
+
+    },
+    {
+      "id": 97,
+      "categoryId": 4,
+      "productName": "Zerdeçal Soslu Karışık Sebze",
+      "Price": "1",
+
+      "image": "./images/zerdecal-soslu-karisik-sebze.jpg"
+
+
+    },
+    {
+      "id": 98,
+      "categoryId": 4,
+      "productName": "Acı Soslu Patlıcanlı Fettuccine",
+      "Price": "1,75",
+      "image": "./images/aci-soslu-patlicanli-fettucine.jpg"
+
+    },
+    {
+      "id": 99,
+      "categoryId": 4,
+      "productName": "Veggie Lazanya",
+      "Price": "2",
+      "image": "./images/veggie-lazanya.jpg"
+
+    },
+
+    {
+      "id": 100,
+      "categoryId": 4,
+      "productName": "Antep Usulü Karışık Dolma ve Yoğurt",
+      "Price": "3,25",
+      "image": "./images/antep-usulu-karisik-dolma-ve-yogurt.jpg"
+    },
+    {
+      "id": 101,
+      "categoryId": 5,
+      "productName": "  Zerdeçal Soslu Karışık Sebze",
+      "Price": "1",
+      "image": "./images/zerdecal-soslu-karisik-sebze.jpg"
+    },
+    {
+      "id": 102,
+      "categoryId": 5,
+      "productName": "  Venedik Soslu Kinoalı Yeşil Salata",
+      "Price": "1,75",
+      "image": "./images/venedik-soslu-kinoa-salatasi.jpg"
+    },
+    {
+      "id": 103,
+      "categoryId": 5,
+      "productName": "  Fırınlanmış Beyaz Nohut",
+      "Price": "2",
+      "image": "./images/firinlanmis-beyaz-nohut.jpg"
+    },
+    {
+      "id": 104,
+      "categoryId": 5,
+      "productName": " Kıymalı Yeşil Mercimek",
+      "Price": "3,25",
+      "image": "./images/kiymali-yesil-mercimek.jpg"
+    },
+    {
+      "id": 105,
+      "categoryId": 6,
+      "productName": "Acı Soslu Patlıcanlı Fettuccine",
+      "Price": "1",
+      "image": "./images/aci-soslu-patlicanli-fettucine.jpg"
+
+    },
+    {
+      "id": 106,
+      "categoryId": 6,
+      "productName": "Zerdeçal Soslu Karışık Sebze",
+      "Price": "1,75",
+
+      "image": "./images/zerdecal-soslu-karisik-sebze.jpg"
+    },
+    {
+      "id": 107,
+      "categoryId": 6,
+      "productName": "Fırınlanmış Beyaz Nohut",
+      "Price": "2",
+
+      "image": "./images/firinlanmis-beyaz-nohut.jpg"
+    },
+    {
+      "id": 108,
+      "categoryId": 6,
+      "productName": "Kıymalı Yeşil Mercimek",
+      "Price": "3,25",
+      "image": "./images/kiymali-yesil-mercimek.jpg"
+    },
+    {
+      "id": 109,
+      "categoryId": 7,
+      "productName": "Beğendi Yatağında Köfte",
+      "Price": "1",
+      "image": "./images/begendi-yataginda-kofte.jpg"
+    },
+    {
+      "id": 110,
+      "categoryId": 7,
+      "productName": "Patates Püresi Yatağında Köfte",
+      "Price": "1,75",
+      "image": "./images/patates-puresi-yataginda-kofte.jpg"
+    },
+    {
+      "id": 111,
+      "categoryId": 7,
+      "productName": " Fırın Tavuk ve Şehriyeli Pilav",
+      "Price": "2",
+      "image": "./images/pilav-ustu-firin-tavuk.jpg"
+    },
+    {
+      "id": 112,
+      "categoryId": 7,
+      "productName": "Piliç Piccata ve Fettuccine",
+      "image": "./images/pilic-piccata-ve-fettucine.jpg",
+      "Price": "3,25"
+    },
+    {
+      "id": 113,
+      "categoryId": 8,
+      "productName": " Nohutlu Pirinç Pilavı",
+      "image": "./images/nohutlu-sehriyeli-pirinc-pilavi.jpg"
+    },
+    {
+      "id": 114,
+      "categoryId": 8,
+      "productName": " Domatesli Bulgur Pilavı",
+      "image": "./images/domatesli-bulgur-pilavi.jpg"
+    },
+    {
+      "id": 115,
+      "categoryId": 8,
+      "productName": "Kaşarlı Patates Püresi",
+      "image": "./images/kasarli-patates-puresi.jpg"
+    },
+    {
+      "id": 116,
+      "categoryId": 8,
+      "productName": "Mini İçli Köfte",
+      "image": "./images/mini-icli-kofte.jpg"
+    },
+    {
+      "id": 117,
+      "categoryId": 8,
+      "productName": "Kadınbudu Köfte",
+      "image": "./images/kadinbudu-kofte.jpg"
+    },
+    {
+      "id": 118,
+      "categoryId": 8,
+      "productName": " İnce Kıyım Şakşuka",
+      "image": "./images/ince-kiyim-saksuka.jpg"
+    },
+    {
+      "id": 119,
+      "categoryId": 8,
+      "productName": " Barbunya Pilaki",
+      "image": "./images/barbunya-pilaki.jpg"
+    },
+    {
+      "id": 120,
+      "categoryId": 8,
+      "productName": "Tereyağlı Cevizli Erişte",
+      "image": "./images/tereyagli-cevizli-eriste.jpg"
+    },
+    {
+      "id": 121,
+      "categoryId": 8,
+      "productName": " Baharatlı Fırın Patates",
+      "image": "./images/baharatli-firin-patates.jpg"
+    },
+    {
+      "id": 122,
+      "categoryId": 9,
+      "productName": " Nohutlu Pirinç Pilavı",
+      "image": "./images/nohutlu-sehriyeli-pirinc-pilavi.jpg"
+    },
+    {
+      "id": 123,
+      "categoryId": 9,
+      "productName": " Domatesli Bulgur Pilavı",
+      "image": "./images/domatesli-bulgur-pilavi.jpg"
+    },
+    {
+      "id": 124,
+      "categoryId": 9,
+      "productName": "Kaşarlı Patates Püresi",
+      "image": "./images/kasarli-patates-puresi.jpg"
+    },
+    {
+      "id": 125,
+      "categoryId": 9,
+      "productName": "Mini İçli Köfte",
+      "image": "./images/mini-icli-kofte.jpg"
+    },
+    {
+      "id": 126,
+      "categoryId": 9,
+      "productName": "Kadınbudu Köfte",
+      "image": "./images/kadinbudu-kofte.jpg"
+    },
+    {
+      "id": 127,
+      "categoryId": 9,
+      "productName": " İnce Kıyım Şakşuka",
+      "image": "./images/ince-kiyim-saksuka.jpg"
+    },
+    {
+      "id": 128,
+      "categoryId": 9,
+      "productName": " Barbunya Pilaki",
+      "image": "./images/barbunya-pilaki.jpg"
+    },
+    {
+      "id": 129,
+      "categoryId": 9,
+      "productName": "Tereyağlı Cevizli Erişte",
+      "image": "./images/tereyagli-cevizli-eriste.jpg"
+    },
+    {
+      "id": 130,
+      "categoryId": 9,
+      "productName": " Baharatlı Fırın Patates",
+      "image": "./images/baharatli-firin-patates.jpg"
+    },
+    {
+      "id": 131,
+      "categoryId": 10,
+      "productName": "Çekoslovak Güneşi",
+      "price": "7,2",
+      "image": "./images/cekoslavak-gunesi.jpg"
+
+    },
+    {
+      "id": 132,
+      "categoryId": 10,
+      "productName": "Siyah İnci",
+      "price": "7,2",
+      "image": "./images/siyah-inci-dilim.jpg"
+
+    },
+    {
+      "id": 133,
+      "categoryId": 10,
+      "productName": "Çikolatalı Sufle",
+      "price": "7,2",
+      "image": "./images/cikolatali-sufle.jpg"
+
+    },
+    {
+      "id": 134,
+      "categoryId": 10,
+      "productName": " Kuş Sütü",
+      "price": "7,2",
+      "image": "./images/kus-sutu.jpg"
+
+    },
+    {
+      "id": 135,
+      "categoryId": 10,
+      "productName": "Frambuazlı Cheesecake",
+      "price": "7,2",
+      "image": "./images/frambuazli-cheesecake.jpg"
+
+    },
+    {
+      "id": 136,
+      "categoryId": 10,
+      "productName": "Çikolatalı Brownie",
+      "price": "7,2",
+      "image": "./images/cikolatali-brownie.jpg"
+
+    },
+    {
+      "id": 137,
+      "categoryId": 10,
+      "productName": "İrmik Helvası",
+      "price": "7,2",
+      "image": "./images/irmik-helvasi.jpg"
+
+    },
+    {
+      "id": 138,
+      "categoryId": 10,
+      "productName": " null",
+      "price": "7,2",
+      "image": "./images/istemiyorum.jpg"
+
+    },
+    {
+      "id": 139,
+      "categoryId": 11,
+      "productName": " Coca-Cola Kutu",
+      "price": "3",
+      "image": "./images/coca-cola-kutu-330ml.jpg"
+
+    },
+    {
+      "id": 140,
+      "categoryId": 11,
+      "productName": "Coca-Cola Light Kutu",
+      "price": "3",
+      "image": "./images/coca-cola-light-kutu.jpg"
+    },
+    {
+      "id": 141,
+      "categoryId": 11,
+      "productName": "Coca-Cola Zero Kutu",
+      "price": "3",
+      "image": "./images/coca-cola-zero-kutu.jpg"
+
+    },
+    {
+      "id": 142,
+      "categoryId": 11,
+      "productName": " Coca-Cola Cam Şişe",
+      "image": "./images/coca-cola-cam-sise.jpg"
+
+
+    },
+    {
+      "id": 143,
+      "categoryId": 11,
+      "productName": " Coca-Cola Zero Cam Şişe",
+      "image": "./images/coca-cola-zero-cam-sise.jpg"
+
+
+    },
+    {
+      "id": 144,
+      "categoryId": 11,
+      "productName": "Fanta Portakal Kutu",
+      "price": "3",
+      "image": "./images/fanta-portakal-kutu.jpg"
+
+    },
+    {
+      "id": 145,
+      "categoryId": 11,
+      "productName": "Sprite Kutu",
+      "price": "3",
+      "image": "./images/sprite-kutu.jpg"
+
+    },
+    {
+      "id": 146,
+      "categoryId": 11,
+      "productName": "Guarana Antarctica Gazlı İçecek",
+      "price": "5",
+      "image": "./images/guarana-antarctica-gazli-icecek.jpg"
+
+    },
+    {
+      "id": 147,
+      "categoryId": 11,
+      "productName": "Damla Su",
+      "price": "1",
+      "image": "./images/damla-su.jpg"
+
+    }
+
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "İndirimli Menüler",
+      "seoUrl": "İndirimliMenü"
+
+    },
+    {
+      "id": 2,
+      "categoryName": "Kırmızı Et",
+      "seoUrl": "KirmiziEtAnaYemekler"
+    },
+    {
+      "id": 3,
+      "categoryName": "Beyaz Et",
+      "seoUrl": "BeyazEtAnaYemekler"
+    },
+    {
+      "id": 4,
+      "categoryName": "Sebzeli Etli Menü ",
+      "seoUrl": "SebzeliEtliİndirimliMenüAnaYemekler"
+    },
+    {
+      "id": 5,
+      "categoryName": "Diyet Menü",
+      "seoUrl": "DiyetIndirimliMenüAnaYemekler"
+    },
+    {
+      "id": 6,
+      "categoryName": "Vejeteryan Menü",
+      "seoUrl": "VejeteryanIndirimliMenüAnaYemekler"
+    },
+    {
+      "id": 7,
+      "categoryName": "Coca Cola Menü ",
+      "seoUrl": "CocaColalaIndirimliMenüAnaYemekler"
+    },
+    {
+      "id": 8,
+      "categoryName": "Menü Yan Lezzetler",
+      "seoUrl": "MenüYanLezzetler"
+    },
+    {
+      "id": 9,
+      "categoryName": "Menü Yan Lezzetler2",
+      "seoUrl": "yanlezzetlerikincimenü"
+    },
+    {
+      "id": 10,
+      "categoryName": "İndirimli Menü Tatlı ",
+      "seoUrl": "indirimlimenutatli"
+    },
+    {
+      "id": 11,
+      "categoryName": "İndirimli Menü İçecek",
+      "seoUrl": "indirimlimenuicecek"
+    }
+
+  ]
+}
